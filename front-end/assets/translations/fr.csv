@@ -1,34 +1,34 @@
 Key,Translation
 add,Ajouter
-alerts,
+alerts,Alertes
 analog_input,
 analog_inputs,
 are_you_sure,Êtes-vous sur?
 ato,
-cancel,
+cancel,Annuler
 clear,Vider
 configure,Configurer
-delete,
-disabled,
-documentation,
-done,
-doser,
+delete,Supprimer
+disabled,Désactiver
+documentation,Documentation
+done,Fait
+doser,Doseur
 driver,
-edit,
-enabled,
-equipment,
-errors,
+edit,Editer
+enabled,Activer
+equipment,Equipement
+errors,Erreurs
 health,
 in-use,
 inlet,
 inlets,
 jack,
 jacks,
-light,
+light,Eclairage
 loading,Chargement
 name,Nom
-none,
-ok,
+none,Aucun
+ok,Ok
 outlet,
 outlets,
 pin,
@@ -37,9 +37,9 @@ running,
 save,Sauvegarder
 sec,
 second_s,
-select,
-since,
-unit,
+select,Selectionner
+since,Depuis
+unit,Unité
 update,Mettre à jour
 ato:alert_after,
 ato:ato_status,
@@ -79,9 +79,9 @@ capabilities:manager,
 capabilities:ph,pH
 capabilities:temperature,Temperature
 capabilities:timers,Minuteries
-collapsible:delete,
-collapsible:edit,
-color_picker:choose,
+collapsible:delete,Supprimer
+collapsible:edit,Editer
+color_picker:choose,Choisir
 configuration:about:current_time,Heure actuelle
 configuration:about:status,Statut
 configuration:about:uptime,Durée de fonctionnement
@@ -119,14 +119,14 @@ configuration:tab:drivers,Drivers
 configuration:tab:errors,Erreurs
 configuration:tab:settings,Paramètres
 configuration:tab:telemetry,Télémétrie
-cron:day_of_month,
-cron:hour,
-cron:minute,
-cron:month,
-cron:second,
-cron:week,
+cron:day_of_month,Jour_du_mois
+cron:hour,Heure
+cron:minute,Minute
+cron:month,Mois
+cron:second,Seconde
+cron:week,Semaine
 dashboard:back_to_dashboard,Retour au Tableau de bord
-fatal_error:connection_lost,
+fatal_error:connection_lost,Connection_perdue
 fatal_error:fatal_error,
 fatal_error:message,
 fatal_error:troubleshoot,
